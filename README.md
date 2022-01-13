@@ -6,8 +6,12 @@ Meu portfolio profissional
 
 ![](https://img.shields.io/github/license/wilgnersouza/Meu-Portfolio)
 
-🚧 Projeto ainda em construção 🚧
+---
+
+### 🚧 Projeto ainda em construção 🚧
 <p>Será adicionado neste projeto a integração com o firebase para que os visitantes do app possam enviar suas mensagens 💬!</p>
+
+---
 
 ### 🛠 Tecnologias e Técnicas Utilizadas
 
