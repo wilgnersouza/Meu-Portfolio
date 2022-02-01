@@ -13,7 +13,7 @@ Meu portfolio profissional totalmente responsivo.
 
 ---
 
-### 🛠 Tecnologias e Técnicas Utilizadas
+### 🛠 Tecnologias e Técnicas Utilizadas 🛠
 
 As seguintes ferramentas foram usadas na construção deste projeto:
 
@@ -22,8 +22,9 @@ As seguintes ferramentas foram usadas na construção deste projeto:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ![](https://img.shields.io/badge/--F7DF1E.svg?style=flat&logoColor=0D0D0D&logo=javascript)
 - [ScrollReveal](https://scrollrevealjs.org/) 📜
 - [BoxIcons](https://boxicons.com/) ✏️
+- [Firebase](https://firebase.google.com/docs) ![](https://img.shields.io/badge/--E34F26.svg?style=flat&logoColor=FAFAFF&logo=firebase)
 
-### Autor
+### Autor ✍
 ---
 
 <a href="https://www.linkedin.com/in/wilgner-souza-stw97/">
@@ -31,7 +32,7 @@ As seguintes ferramentas foram usadas na construção deste projeto:
  <br />
  <sub><b>Wilgner Souza</b></sub></a> <a href="https://www.linkedin.com/in/wilgner-souza-stw97/" title="Danki Code">💻</a>
 
-Feito por Wilgner Souza 👋🏽 </br>
+Feito por Wilgner Souza 😉 </br>
 
 Entre em contato! 👇👇 </br>
 
@@ -42,3 +43,12 @@ Entre em contato! 👇👇 </br>
   <a href="https://www.linkedin.com/in/wilgner-souza-stw97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://api.whatsapp.com/send?phone=5592992806495" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0aad47?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
+
+## Contribuidores
+
+Muito obrigado ao [Wilker](https://github.com/WilkerLopes) por ajudar na integração do Firebase 🔥 nesta aplicação:
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/WilkerLopes"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48459835?v=4" width="100px;" alt=""/><br /><sub><b>Wilker Lopes</b></sub></a><br/><a href="https://github.com/WilkerLopes" title="Dev">👨‍🚀 🖥️</a></td>
+  </tr>
+</table>
