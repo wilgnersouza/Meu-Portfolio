@@ -23,7 +23,7 @@ As seguintes ferramentas foram usadas na construção deste projeto:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ![](https://img.shields.io/badge/--F7DF1E.svg?style=flat&logoColor=0D0D0D&logo=javascript)
 - [ScrollReveal](https://scrollrevealjs.org/) 📜
 - [BoxIcons](https://boxicons.com/) ✏️
-- [Firebase](https://firebase.google.com/docs) ![](https://img.shields.io/badge/--E34F26.svg?style=flat&logoColor=FAFAFF&logo=firebase)
+- [Firebase](https://firebase.google.com/docs) ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=FFA611&logo=firebase)
 
 ### Autor ✍
 ---
