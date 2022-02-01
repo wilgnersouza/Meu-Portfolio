@@ -19,7 +19,7 @@ Meu portfolio profissional totalmente responsivo.
 As seguintes ferramentas foram usadas na construção deste projeto:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=E34F26&logo=html5)
-- [CSS](https://www.w3schools.com/cssref/) ![](https://img.shields.io/badge/--1572b6.svg?style=flat&logoColor=1572b6&logo=css3)
+- [CSS](https://www.w3schools.com/cssref/) ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=1572b6&logo=css3)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ![](https://img.shields.io/badge/--0D0D0D.svg?style=flat&logoColor=F7DF1E&logo=javascript)
 - [ScrollReveal](https://scrollrevealjs.org/) 📜
 - [BoxIcons](https://boxicons.com/) ✏️
