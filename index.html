@@ -168,11 +168,11 @@
     <section class="contact section" id="contact">
         <h2 class="section-title">Contato</h2>
         <div class="contact__container bd-grid">
-            <form action="" class="contact__form">
-                <input type="text" placeholder="Nome" class="contact__input">
-                <input type="mail" placeholder="Seu melhor email" class="contact__input">
-                <textarea name="" id="" placeholder="Insira seu texto aqui" cols="0" rows="10" class="contact__input"></textarea>
-                <input type="submit" value="Enviar" class="contact__button button">
+            <form action="" method="post" class="contact__form">
+                <input type="text" autocomplete="name" placeholder="Nome" class="contact__input" id="nome">
+                <input type="email" autocomplete="email" placeholder="Seu melhor email" class="contact__input" id="email">
+                <textarea name="" id="message" placeholder="Insira seu texto aqui" cols="0" rows="10" class="contact__input"></textarea>
+                <input type="submit" value="Enviar" class="contact__button button" id="acao">
             </form>
         </div><!--campos de contato-->
     </section><!--sessão contato-->
@@ -187,6 +187,7 @@
     <p class="footer__copy">&#169;2022 . Todos os direitos reservados</p> <!--retirado-->
 </footer><!--fim rodape-->
 
+<script src="assets/js/firebase.js" type="module"></script><!--arquivo firebase-->
 <script src="https://unpkg.com/scrollreveal"></script><!--animação scroll reveal-->
 <script src="assets/js/script.js"></script><!--arquivo JS-->
 </body>
