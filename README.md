@@ -25,8 +25,7 @@ As seguintes ferramentas foram usadas na construção deste projeto:
 - [BoxIcons](https://boxicons.com/) ✏️
 - [Firebase](https://firebase.google.com/docs) ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=FFA611&logo=firebase)
 
-### Autor ✍
----
+## Autor ✍
 
 <a href="https://www.linkedin.com/in/wilgner-souza-stw97/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/wilgnersouza" width="100px;" alt=""/>
