@@ -1,4 +1,4 @@
-# Meu Portfolio 
+# Meu Portfolio <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px">
 Meu portfolio profissional totalmente responsivo.
 <p>
     <img style="border-radius: 50%;" src="https://i.imgur.com/gctOYr3.png" title="Wilgner banner" width="600px;"/>
